@@ -1,1 +1,3 @@
 BACKEND_API_URL: backend.dap15.online
+component: frontend
+app_location: /user/share/nginx/html
